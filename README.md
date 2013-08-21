@@ -1,2 +1,2 @@
-brettbowengithub.io
+bbowen.github.io
 ===================
